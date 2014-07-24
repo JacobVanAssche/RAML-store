@@ -66876,10 +66876,10 @@ angular.module('ramlConsoleApp').run(['$templateCache', function($templateCache)
     "      <responses></responses>\n" +
     "    </console-tab>\n" +
     "\n" +
-    "    <console-tab role=\"try-it\" heading=\"Try It\" active=\"documentation.tryItActive\" disabled=\"!ramlConsole.tryItEnabled()\">\n" +
+    /*"    <console-tab role=\"try-it\" heading=\"Try It\" active=\"documentation.tryItActive\" disabled=\"!ramlConsole.tryItEnabled()\">\n" +
     "      <try-it></try-it>\n" +
     "    </console-tab>\n" +
-    "  </console-tabset>\n" +
+    "  </console-tabset>\n"*/ +
     "</section>\n"
   );
 
